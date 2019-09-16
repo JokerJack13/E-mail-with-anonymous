@@ -1,0 +1,8 @@
+ja:
+  activerecord:
+    attributes:
+      ask:
+        name: "伝えたいこと"
+        email: "伝えたい人のメールアドレス"
+        relationship: "伝えたい人との関係"
+        content: "伝えたいこと"
